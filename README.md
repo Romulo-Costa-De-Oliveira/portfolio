@@ -10,5 +10,5 @@ O controle de tarefas será realizado no Github
 
 :package: nova funcionalidade
 :up: atualização
-:beatle: correção de bugs
+:beetle: correção de bugs
 :checkered_flag: release
